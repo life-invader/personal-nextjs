@@ -29,7 +29,7 @@ function Navbar() {
 					</Link>
 				</li>
 				<li className={styles.listItem}>
-					<Link href="/products/contact">
+					<Link href="/contacts">
 						<a>Contact</a>
 					</Link>
 				</li>
